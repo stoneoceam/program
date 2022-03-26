@@ -10,11 +10,13 @@ int main() {
 	for (int i = 0; i < n; i++) {
 		int k;
 		cin>>k;
-		arr[i] = k;
+		*(arr+i) = k;
+		//arr[i] = k;
 	}
 	bubbleSort(arr,n);
 	for (int i = 0; i < n; i++) {
-		cout << arr[i] << " ";
+		//cout << arr[i] << " ";
+		cout << *(arr+i)<<" ";
 	}
 	delete arr;
 	return 0;
