@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="源文件\Hello World">
+      <UniqueIdentifier>{3480e1d1-4172-473a-8ff4-cc45566f0adc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\isPrime">
+      <UniqueIdentifier>{03d6603f-f8da-4ad0-aee1-26bd685841bb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\bubbleSort">
+      <UniqueIdentifier>{d1190096-a5ef-4a03-baad-f272600131de}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Hello World.cpp">
+      <Filter>源文件\Hello World</Filter>
+    </ClCompile>
+    <ClCompile Include="Hello World.c">
+      <Filter>源文件\Hello World</Filter>
+    </ClCompile>
+    <ClCompile Include="isPrime.cpp">
+      <Filter>源文件\isPrime</Filter>
+    </ClCompile>
+    <ClCompile Include="isPrime.c">
+      <Filter>源文件\isPrime</Filter>
+    </ClCompile>
+    <ClCompile Include="bubbleSort.cpp">
+      <Filter>源文件\bubbleSort</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
