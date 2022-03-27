@@ -1,2 +1,4 @@
 ﻿  bubbleSort.cpp
+x64\Debug\Hello World.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+x64\Debug\isPrime.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
   program.vcxproj -> E:\program\program\x64\Debug\program.exe

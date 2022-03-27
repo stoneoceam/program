@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 void bubbleSort(int* arr,int n);
-int main() {
+int main3() {
 	int n;
 	cout << "Enter the number of elements" << endl;
 	cin >> n;

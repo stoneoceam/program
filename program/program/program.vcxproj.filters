@@ -22,6 +22,9 @@
     <Filter Include="源文件\bubbleSort">
       <UniqueIdentifier>{d1190096-a5ef-4a03-baad-f272600131de}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\Perfect number">
+      <UniqueIdentifier>{fc804ee6-ab18-4b2e-957a-bc74ddf08150}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Hello World.cpp">
@@ -38,6 +41,9 @@
     </ClCompile>
     <ClCompile Include="bubbleSort.cpp">
       <Filter>源文件\bubbleSort</Filter>
+    </ClCompile>
+    <ClCompile Include="Perfect number.c">
+      <Filter>源文件\Perfect number</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

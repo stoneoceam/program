@@ -144,6 +144,7 @@
     <ClCompile Include="Hello World.cpp" />
     <ClCompile Include="isPrime.c" />
     <ClCompile Include="isPrime.cpp" />
+    <ClCompile Include="Perfect number.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
