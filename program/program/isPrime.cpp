@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-int isPrime(int n);
+inline int isPrime(int n);
 int main2() {
 	int n;
 	cout << "Please enter a number" << endl;

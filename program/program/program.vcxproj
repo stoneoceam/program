@@ -145,6 +145,7 @@
     <ClCompile Include="isPrime.c" />
     <ClCompile Include="isPrime.cpp" />
     <ClCompile Include="Perfect number.c" />
+    <ClCompile Include="variant.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

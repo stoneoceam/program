@@ -45,5 +45,8 @@
     <ClCompile Include="Perfect number.c">
       <Filter>源文件\Perfect number</Filter>
     </ClCompile>
+    <ClCompile Include="variant.c">
+      <Filter>源文件\Perfect number</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
