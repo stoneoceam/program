@@ -13,40 +13,64 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="源文件\Hello World">
-      <UniqueIdentifier>{3480e1d1-4172-473a-8ff4-cc45566f0adc}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="源文件\isPrime">
-      <UniqueIdentifier>{03d6603f-f8da-4ad0-aee1-26bd685841bb}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="源文件\bubbleSort">
+    <Filter Include="源文件\3.bubbleSort">
       <UniqueIdentifier>{d1190096-a5ef-4a03-baad-f272600131de}</UniqueIdentifier>
     </Filter>
-    <Filter Include="源文件\Perfect number">
+    <Filter Include="源文件\1.Hello World">
+      <UniqueIdentifier>{3480e1d1-4172-473a-8ff4-cc45566f0adc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\2.isPrime">
+      <UniqueIdentifier>{03d6603f-f8da-4ad0-aee1-26bd685841bb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\4.Perfect number">
       <UniqueIdentifier>{fc804ee6-ab18-4b2e-957a-bc74ddf08150}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\5.验证哥德巴赫猜想">
+      <UniqueIdentifier>{cf384c26-ab09-45eb-8375-dbbabfad6055}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\6.纸币兑换">
+      <UniqueIdentifier>{a8f1e46a-b2cf-44e2-9ff0-df1de8f1c814}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\7.鸡兔同笼">
+      <UniqueIdentifier>{c472b10a-9ff3-4910-a37d-a83142a28cf4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\8.阶乘">
+      <UniqueIdentifier>{60435c70-7da7-4c3d-9667-5831851497e6}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Hello World.cpp">
-      <Filter>源文件\Hello World</Filter>
+      <Filter>源文件\1.Hello World</Filter>
     </ClCompile>
     <ClCompile Include="Hello World.c">
-      <Filter>源文件\Hello World</Filter>
+      <Filter>源文件\1.Hello World</Filter>
     </ClCompile>
     <ClCompile Include="isPrime.cpp">
-      <Filter>源文件\isPrime</Filter>
+      <Filter>源文件\2.isPrime</Filter>
     </ClCompile>
     <ClCompile Include="isPrime.c">
-      <Filter>源文件\isPrime</Filter>
+      <Filter>源文件\2.isPrime</Filter>
     </ClCompile>
     <ClCompile Include="bubbleSort.cpp">
-      <Filter>源文件\bubbleSort</Filter>
+      <Filter>源文件\3.bubbleSort</Filter>
     </ClCompile>
     <ClCompile Include="Perfect number.c">
-      <Filter>源文件\Perfect number</Filter>
+      <Filter>源文件\4.Perfect number</Filter>
     </ClCompile>
     <ClCompile Include="variant.c">
-      <Filter>源文件\Perfect number</Filter>
+      <Filter>源文件\4.Perfect number</Filter>
+    </ClCompile>
+    <ClCompile Include="验证哥德巴赫猜想.cpp">
+      <Filter>源文件\5.验证哥德巴赫猜想</Filter>
+    </ClCompile>
+    <ClCompile Include="纸币兑换.cpp">
+      <Filter>源文件\6.纸币兑换</Filter>
+    </ClCompile>
+    <ClCompile Include="鸡兔同笼.cpp">
+      <Filter>源文件\7.鸡兔同笼</Filter>
+    </ClCompile>
+    <ClCompile Include="阶乘.cpp">
+      <Filter>源文件\8.阶乘</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

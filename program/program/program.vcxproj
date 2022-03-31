@@ -146,6 +146,10 @@
     <ClCompile Include="isPrime.cpp" />
     <ClCompile Include="Perfect number.c" />
     <ClCompile Include="variant.c" />
+    <ClCompile Include="纸币兑换.cpp" />
+    <ClCompile Include="阶乘.cpp" />
+    <ClCompile Include="验证哥德巴赫猜想.cpp" />
+    <ClCompile Include="鸡兔同笼.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

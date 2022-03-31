@@ -1,7 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include<stdio.h>
 inline int isPrime(int n);
-int main() {
+int main42() {
 	int num;
 	scanf("%d", &num);
 	printf("%d=", num);
