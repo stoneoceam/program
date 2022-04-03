@@ -37,6 +37,9 @@
     <Filter Include="源文件\8.阶乘">
       <UniqueIdentifier>{60435c70-7da7-4c3d-9667-5831851497e6}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\9.点和圆的关系">
+      <UniqueIdentifier>{c44d8c91-f37c-4799-b27d-7f186f58f6c1}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Hello World.cpp">
@@ -71,6 +74,9 @@
     </ClCompile>
     <ClCompile Include="阶乘.cpp">
       <Filter>源文件\8.阶乘</Filter>
+    </ClCompile>
+    <ClCompile Include="点和圆的关系.cpp">
+      <Filter>源文件\9.点和圆的关系</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

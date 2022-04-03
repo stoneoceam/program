@@ -1,2 +1,17 @@
-﻿  阶乘.cpp
+﻿  bubbleSort.cpp
+  Hello World.cpp
+  isPrime.cpp
+  点和圆的关系.cpp
+  纸币兑换.cpp
+  阶乘.cpp
+  验证哥德巴赫猜想.cpp
+  鸡兔同笼.cpp
+  正在生成代码...
+  Hello World.c
+  isPrime.c
+  Perfect number.c
+  variant.c
+  正在生成代码...
+x64\Debug\Hello World.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+x64\Debug\isPrime.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
   program.vcxproj -> E:\program\program\x64\Debug\program.exe
